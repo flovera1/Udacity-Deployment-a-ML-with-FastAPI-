@@ -57,3 +57,4 @@ def performance_on_categorical_slice(X, y, model, feature_name, encoder, model_c
         })
 
     return results
+
