@@ -1,0 +1,10 @@
+numpy
+joblib
+pandas
+scikit-learn
+fastapi
+uvicorn
+pytest
+flake8
+joblib
+requests
